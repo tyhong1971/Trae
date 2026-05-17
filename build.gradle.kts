@@ -1,4 +1,1 @@
-plugins {
-    id("com.android.application") version "8.2.0" apply false
-    id("org.jetbrains.kotlin.android") version "1.9.22" apply false
-}
+// 顶层构建文件，配置在 settings.gradle.kts 中
